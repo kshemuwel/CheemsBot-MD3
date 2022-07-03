@@ -42,14 +42,14 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94711707484'] //ur owner number
-global.ownername = "dragon x"
+global.ownername = " Dragonx"
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
 global.location = "sri lanka, kandy" //ur location
 
 //bot bombdy
 global.botname = "Dragon x" //ur bot name
-global.websitex = "https://janithsadanuwan.tk" //ur website
+global.websitex = "https://youtube.com/c/janithsadanuwan" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "janith sadanuwanDream Guy Xeon"
